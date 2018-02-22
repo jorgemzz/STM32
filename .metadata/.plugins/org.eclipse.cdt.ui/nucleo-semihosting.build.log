@@ -1,0 +1,11 @@
+14:53:56 **** Incremental Build of configuration Debug for project nucleo-semihosting ****
+make all 
+Invoking: GNU ARM Cross Print Size
+arm-none-eabi-size --format=berkeley "nucleo-semihosting.elf"
+   text	   data	    bss	    dec	    hex	filename
+  15374	    524	    416	  16314	   3fba	nucleo-semihosting.elf
+Finished building: nucleo-semihosting.siz
+ 
+
+14:53:57 Build Finished (took 417ms)
+

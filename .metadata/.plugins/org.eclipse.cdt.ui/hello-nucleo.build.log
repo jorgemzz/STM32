@@ -1,0 +1,11 @@
+14:53:55 **** Incremental Build of configuration Debug for project hello-nucleo ****
+make all 
+Invoking: GNU ARM Cross Print Size
+arm-none-eabi-size --format=berkeley "hello-nucleo.elf"
+   text	   data	    bss	    dec	    hex	filename
+   8295	    160	    420	   8875	   22ab	hello-nucleo.elf
+Finished building: hello-nucleo.siz
+ 
+
+14:53:55 Build Finished (took 282ms)
+

@@ -1,0 +1,11 @@
+14:54:04 **** Incremental Build of configuration Debug for project matrix-led-nucleo ****
+make all 
+Invoking: GNU ARM Cross Print Size
+arm-none-eabi-size --format=berkeley "matrix-led-nucleo.elf"
+   text	   data	    bss	    dec	    hex	filename
+   8167	    160	    416	   8743	   2227	matrix-led-nucleo.elf
+Finished building: matrix-led-nucleo.siz
+ 
+
+14:54:05 Build Finished (took 310ms)
+

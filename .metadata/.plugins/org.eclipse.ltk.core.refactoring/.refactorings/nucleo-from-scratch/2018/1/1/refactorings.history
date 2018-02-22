@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;nucleo-from-scratch/system/src/cmsis/startup_stm32f411xe.s&apos; to &apos;startup_stm32f411xe.S&apos;" description="Rename resource &apos;startup_stm32f411xe.s&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="system/src/cmsis/startup_stm32f411xe.s" name="startup_stm32f411xe.S" stamp="1514924374243" updateReferences="true"/>
+</session>

@@ -1,0 +1,11 @@
+14:53:56 **** Incremental Build of configuration Debug for project nucleo-from-scratch ****
+make all 
+Invoking: GNU ARM Cross Print Size
+arm-none-eabi-size --format=berkeley "nucleo-from-scratch.elf"
+   text	   data	    bss	    dec	    hex	filename
+   7911	    160	    416	   8487	   2127	nucleo-from-scratch.elf
+Finished building: nucleo-from-scratch.siz
+ 
+
+14:53:56 Build Finished (took 234ms)
+
